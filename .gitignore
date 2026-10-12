@@ -1,0 +1,8 @@
+data/
+data200/
+models/
+*.parquet
+*.pkl
+.venv/
+.ipynb_checkpoints/
+__pycache__/
